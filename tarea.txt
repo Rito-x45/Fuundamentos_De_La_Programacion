@@ -1,0 +1,1 @@
+diagrama de flujo, extracto pseudocodigo, pruebas de escritorio de cada estructura de repeticon, while, do y for, hacer el ejercicio de sumar 5 numeros de manera acumulativa hasta que ponga 0 E3.c parcial 2
